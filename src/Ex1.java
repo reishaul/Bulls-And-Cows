@@ -52,7 +52,7 @@ public class Ex1 {
 
     public static void main(String[] args) {
         BP_Server game = new BP_Server();   // Starting the "game-server"
-        long myID = 325390086;             // Your ID should be written here
+        long myID =123456789 ;             // Your ID should be written here
         int numOfDigits = 6;                // Number of digits [2,6]
         game.startGame(myID, numOfDigits);  // Starting a game
         System.out.println(Title + " with code of " + numOfDigits + " digits");
