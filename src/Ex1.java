@@ -1,6 +1,5 @@
 /**
- * My name is: Rei Shaul
- *My ID is: 325390086
+ *Implements and logic by Rei Shaul - reishaul1@gmail.com
  */
 import java.util.Scanner;
 
