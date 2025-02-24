@@ -1,6 +1,5 @@
 /**
- * my name: Rei Shaul
- * my id: 325390086
+ * Implements and logic by Rei Shaul - reishaul1@gmail.com
  */
 
 import org.junit.jupiter.api.Test;
